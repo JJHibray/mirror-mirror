@@ -1,0 +1,15 @@
+#one {
+    border: 5px solid rgb(46, 29, 143);
+}
+
+#two {
+    border: 5px solid chocolate;
+}
+
+.mirror { 
+    display: flex;
+
+    justify-content: space-around;
+
+    margin-right: 50%;
+}
